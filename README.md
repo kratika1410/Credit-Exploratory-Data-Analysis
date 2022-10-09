@@ -14,5 +14,6 @@ the company
 
 ● If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan
 may lead to a financial loss for the company.
+
 Credit risk analysis will help the company to make a decision for loan approval based on the applicant’s
 profile. Which controls loss of business to the company and avoid financial loss for the company.
